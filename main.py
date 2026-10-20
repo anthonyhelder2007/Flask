@@ -1,5 +1,5 @@
-from app import app  # Importa a app Flask
+from app import app
 
 
 if __name__ == "__main__":
-    app.run(debug=True)  # Inicia servidor de desenvolvimento em debug
+    app.run(debug=True)  
